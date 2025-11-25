@@ -10,9 +10,13 @@ public:
             else
                 odd++;
         }
+
+        // Insert 'even' number of 0s
         for (int i = 0; i < even; i++) {
             ans.push_back(0);
         }
+
+        // Insert 'odd' number of 1s
         for (int i = 0; i < odd; i++) {
             ans.push_back(1);
         }
