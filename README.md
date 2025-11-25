@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayabhat12/LeetCode/tree/master/0001-two-sum) |
+| [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/akshayabhat12/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/akshayabhat12/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
