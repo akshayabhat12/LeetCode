@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshayabhat12/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/akshayabhat12/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/akshayabhat12/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshayabhat12/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -47,4 +49,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshayabhat12/LeetCode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
