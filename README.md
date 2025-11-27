@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshayabhat12/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshayabhat12/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
