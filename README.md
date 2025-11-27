@@ -9,18 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshayabhat12/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/akshayabhat12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/akshayabhat12/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/akshayabhat12/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayabhat12/LeetCode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/akshayabhat12/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/akshayabhat12/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshayabhat12/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/akshayabhat12/LeetCode/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/akshayabhat12/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/akshayabhat12/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/akshayabhat12/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
