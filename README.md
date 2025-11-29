@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshayabhat12/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/akshayabhat12/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/akshayabhat12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/akshayabhat12/LeetCode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akshayabhat12/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/akshayabhat12/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayabhat12/LeetCode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/akshayabhat12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
