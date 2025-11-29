@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshayabhat12/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/akshayabhat12/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/akshayabhat12/LeetCode/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/akshayabhat12/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/akshayabhat12/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akshayabhat12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akshayabhat12/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
