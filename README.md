@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akshayabhat12/LeetCode/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/akshayabhat12/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/akshayabhat12/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akshayabhat12/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshayabhat12/LeetCode/tree/master/0002-add-two-numbers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akshayabhat12/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akshayabhat12/LeetCode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akshayabhat12/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
